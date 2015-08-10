@@ -1183,6 +1183,12 @@
         width: 700px;
       }
 
+      .toplogo {
+        width: 210px;
+        margin: 5px;
+        float: left;
+      }
+
 		/* Section/Article */
 
 			header {
@@ -1460,6 +1466,10 @@
 
       .logo {
         width: 100%;
+      }
+
+      .toplogo {
+        display: none;
       }
 
 		/* Section/Article */
