@@ -1174,6 +1174,11 @@
 				letter-spacing: -0.015em;
 			}
 
+      .logo {
+        margin-top: 110px;
+        width: 700px;
+      }
+
 		/* Section/Article */
 
 			header {
@@ -1448,6 +1453,10 @@
 				font-size: 1.25em;
 				letter-spacing: -0.025em;
 			}
+
+      .logo {
+        width: 100%;
+      }
 
 		/* Section/Article */
 
